@@ -30,10 +30,18 @@ namespace AITechDocsRecognition
         private void bunifuImageButton4_Click(object sender, EventArgs e)
         {
             bunifuImageButton4.ShowActiveImage = true;
+            btnDisplayTree.Visible = true;
+            btnStop.Visible = true;
+            displayPanel.Visible = true;
             //bunifuImageButton4.BackColor = Color.FromArgb(156, 228, 238);
         }
 
         private void bunifuImageButton3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void bunifuButton1_Click(object sender, EventArgs e)
         {
 
         }
