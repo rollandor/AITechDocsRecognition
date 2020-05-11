@@ -161,3 +161,4 @@ C:\Study\Diplom\AITechDocsRecognition\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip
 C:\Study\Diplom\AITechDocsRecognition\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
 C:\Study\Diplom\AITechDocsRecognition\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
 C:\Study\Diplom\AITechDocsRecognition\obj\Debug\AITechDocsRecognition.exe.licenses
+C:\Study\Diplom\AITechDocsRecognition\obj\Debug\AITechDocsRecognition.Forms.SettingsForm.resources
