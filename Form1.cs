@@ -26,5 +26,16 @@ namespace AITechDocsRecognition
         {
 
         }
+
+        private void bunifuImageButton4_Click(object sender, EventArgs e)
+        {
+            bunifuImageButton4.ShowActiveImage = true;
+            //bunifuImageButton4.BackColor = Color.FromArgb(156, 228, 238);
+        }
+
+        private void bunifuImageButton3_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
