@@ -16,5 +16,15 @@ namespace AITechDocsRecognition
         {
             InitializeComponent();
         }
+
+        private void imgBtnExit_Click(object sender, EventArgs e)
+        {
+            Environment.Exit(0);
+        }
+
+        private void ImgBtnHelp_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
